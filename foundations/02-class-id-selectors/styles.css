@@ -1,0 +1,21 @@
+p{
+    background-color: rgb(226, 129, 189);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+    font-size: 20px;
+}
+
+.evenblue{
+    color: blue;
+    font-size: 36px;
+}
+
+
+.font24{
+    font-size: 24px;
+}
+
+.custom{
+  font-size: 24px;
+  background-color:lightgreen;
+  font-weight: bold;
+}
